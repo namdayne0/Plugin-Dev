@@ -1,4 +1,4 @@
-package com.example.customboat;
+package com.namdev.customboat;
 
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.Boat;

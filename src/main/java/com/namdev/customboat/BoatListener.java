@@ -1,4 +1,4 @@
-package com.example.customboat;
+package com.namdev.customboat;
 
 import org.bukkit.Particle;
 import org.bukkit.entity.Boat;

@@ -1,4 +1,4 @@
-package com.example.customboat;
+package com.namdev.customboat;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
